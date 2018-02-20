@@ -1,4 +1,4 @@
-package oopRep;
+package kalk;
 
 import org.junit.Test;  //подключение библиотеки  Test, котора¤ будет импортировать @Test аннотации дл¤ Junits
 import junit.framework.Assert; //подключение библиотеки Assert, котора¤ содержит набор методов assert
